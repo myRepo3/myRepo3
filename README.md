@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Harshal
-- 👀 I’m interested in expanding my knowledge on Cloud.
-- 🌱 I’m currently learning Cloud Computing and how to leverage multi-cloud.
-- 💞️ I’m looking to collaborate on Cloud technologies.
+- 👀 Aspiring Cloud Enthusiast.
+- 🌱 Passionate About Cloud Computing.
+- 💞️ Transforming Ideas into Cloud-Driven Realities.
+  
 
 
 <!---
